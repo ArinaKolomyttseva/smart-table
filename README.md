@@ -1,1 +1,1 @@
-# sp6-2_smart-table_starter
+git@github.com:ArinaKolomyttseva/smart-table.git
